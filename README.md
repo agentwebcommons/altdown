@@ -11,6 +11,7 @@ Its name is short for *Alternate Markdown*.
 | Version | Status | Published | Source | On the web |
 | --- | --- | --- | --- | --- |
 | 1.0 | Draft | October 31, 2026 | [spec/1.0.md](spec/1.0.md) | https://altdown.org/1.0/ |
+| Services 0.1 | Draft | November 4, 2026 | [spec/services-0.1.md](spec/services-0.1.md) | https://altdown.org/services/ |
 
 Each version keeps its own file and its own address. The latest version is always at
 https://altdown.org/spec/. See [CHANGELOG.md](CHANGELOG.md).
